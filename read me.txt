@@ -1,0 +1,18 @@
+%--------------------------------------------------------
+%NOTE:
+
+%Please perform the following steps in order
+
+%-----------------------------------------------------------
+1. Select the thermal image you will work with by pressing the "Görüntü Aç" button.
+2. Enter the "ALT" lower and "ÜST" upper values (tempuratures) written in the thermal image into the relevant text boxes.
+3. After pressing the "Kes" button, click your mouse twice to determine the area you will work on.
+4. Enter the segmentation number in the two text boxes and click the "Bölütleme" button.
+5. After entering the Segmentation numbers to be analyzed, click the "Analize Başla" button.
+%------------------------------------------------------------
+
+For more descriptive and theoretical information, you can review the article below.
+
+KATIRCIOĞLU, F., CİNGİZ, Z., Yusuf, Ç. A. Y., GÜREL, A. E., SARIDEMİR, S., & KOLİP,A. (2020)
+R22 ve Alternatifleri R438A ile R417A Soğutucu Akışkanları için Kızılötesi Görüntü İşleme Teknikleri Kullanarak, 
+Soğutma Sistem Performansının İncelenmesi. Academic Platform Journal of Engineering and Science, 8(3), 500-513.
